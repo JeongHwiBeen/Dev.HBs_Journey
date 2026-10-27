@@ -1,0 +1,4 @@
+# Legacy Keras 2 ImageDataGenerator pipeline, tested via static checks only.
+# Example compatible stack (Python 3.9-3.11 recommended):
+tensorflow>=2.13,<2.16
+numpy>=1.23,<2

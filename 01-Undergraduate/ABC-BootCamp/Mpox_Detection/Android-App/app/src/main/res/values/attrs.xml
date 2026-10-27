@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- attrs.xml 파일에 속성 정의 -->
+    <declare-styleable name="CustomTheme">
+        <attr name="colorBackground" format="color"/>
+    </declare-styleable>
+
+</resources>

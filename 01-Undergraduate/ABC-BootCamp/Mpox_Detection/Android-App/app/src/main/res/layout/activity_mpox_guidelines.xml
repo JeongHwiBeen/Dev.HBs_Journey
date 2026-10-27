@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/guidelinesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="자가 격리시 유의 사항.\n\t 1. 감염 전파 방지를 위해 격리 장소 외에 외출 금지 \n\t 2. 독립된 공간에서 혼자 생활하기 \n\t 3. 진료 등 외출이 불가피할 경우 반드시 관할 \n\t\t\t\t보건소에 먼저 연락하기 \n\t 4. 가족 또는 동거인과 대화 등 접촉하지 않기\n\t 5. 가족 또는 함께 주거하는 사람이 는 경우 \n\t\t\t\t\자가격리 대상자 포함, 거주자 전원이 \n\t\t\t\t항상 마스크를 착용하는 것이 원칙\n\t 6. 개인 물품 사용하기 \n\t 7. 건강수칙 지키기"
+        android:textSize="18sp"
+        android:textColor="@android:color/black" />
+</LinearLayout>
